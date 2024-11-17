@@ -8,7 +8,7 @@ The project addresses the challenge of accurately classifying fish species from 
 
 ### Key Features
 
-* **Dataset:** Custom dataset of ~6,900 images across five fish species.
+* **Dataset:** Custom self made dataset of ~6,900 images across five fish species.
 * **Model:** InceptionV3 fine-tuned for fish species classification.
 * **Accuracy:** Achieves 99% accuracy on the test set.
 
